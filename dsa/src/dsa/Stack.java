@@ -43,7 +43,7 @@ class StackArray{
 	}
 }
 
-class Main {
+class Stack {
 	  public static void main(String[] args) {
 		  StackArray sta = new StackArray(5);
 		  sta.push(9);
